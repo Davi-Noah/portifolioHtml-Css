@@ -2,6 +2,7 @@ body{
     margin: 0px;
     font-family: 'Fira Sans', Arial, sans-serif;
     color: #00120B;
+    transition: all ease 0.4s;
 }
 
 h1,h2,h3,p{
